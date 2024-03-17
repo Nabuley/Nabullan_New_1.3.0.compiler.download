@@ -1,5 +1,17 @@
+.keywords {
+    color:magenta;
+}
+.str{
+    color:#00ff15;
+}
+.key{
+    color:#ff9100;
+}
+.grr{
+    color:#ffe600;
+}
 code{
-    padding: 5px;
+    padding: 10px;
     background-color: #2b00a1;
     border-radius: 5px;
     font-family: "Consolas", "Sans Mono", "Courier", "monospace";
